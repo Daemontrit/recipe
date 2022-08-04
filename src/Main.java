@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-        int eaters =5;
+        int eaters = 5;
         int water=3000;
         int potatoes=5;
         int chicken=6;
